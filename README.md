@@ -6,7 +6,7 @@
 Passionate about building innovative Systems solutions using C#.NET.  I specialize in crafting user-friendly systems that drive efficiency and enhance user experiences.
 
 📫 **Contact Me:**
-[GitHub](https://github.com/alwsabicode1) | [Portfolio](https://zaidmahdidev.github.io/portfolio/) | 📩 fffvvvv2234@gmail.com
+[GitHub](https://github.com/alwsabicode1) | [Portfolio](https://alwsabicode1.github.io/portfolio/) | 📩 fffvvvv2234@gmail.com
 
 ---
 
