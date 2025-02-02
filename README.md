@@ -4,6 +4,7 @@
 
 
 Passionate about building innovative Systems solutions using C#.NET.  I specialize in crafting user-friendly systems that drive efficiency and enhance user experiences.
+
 📫 **Contact Me:**
 [GitHub](https://github.com/alwsabicode1) | [Portfolio](https://zaidmahdidev.github.io/portfolio/) | 📩 fffvvvv2234@gmail.com
 
@@ -17,32 +18,6 @@ Passionate about building innovative Systems solutions using C#.NET.  I speciali
 - **Soft Skills:** Problem-Solving, Critical Thinking, Communication, Continuous Learning
 
 ---
-
-## 🚀 Featured Projects
-
-### **📌 Dairy Unit Management System**
-Comprehensive system for managing milk collection & distribution for the Ministry of Agriculture.
-- **Features:** Multi-stakeholder apps for tracking milk production, delivery, and quality control.
-- **Tech:** Flutter
-- **Outcome:** Improved transparency & operational efficiency.
-
-### **📌 Diesel Unit Management System**
-Mobile app for monitoring national fuel inventory and distribution.
-- **Features:** Real-time inventory tracking, station management, notifications.
-- **Tech:** Flutter
-- **Outcome:** Enhanced fuel distribution monitoring & efficiency.
-
-### **📌 Blood Donation App – "رابطة الاهالي"**
-Connecting blood donors with recipients through a real-time donor directory.
-- **Features:** Search by blood type, real-time notifications, dark/light mode.
-- **Tech:** Flutter
-- **Outcome:** Faster response times in emergency situations.
-
-### **📌 Islamic App – "ذكر"**
-A comprehensive Islamic app featuring Quran reading, daily prayers, and supplications.
-- **Features:** Offline mode, Adhkar & Hadith collections, accurate Qibla direction.
-- **Tech:** Flutter
-- **Outcome:** Delivered an ad-free, seamless user experience.
 
 
 ## 🎯 Hobbies & Interests
@@ -62,8 +37,8 @@ A comprehensive Islamic app featuring Quran reading, daily prayers, and supplica
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zaidmahdidev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidmahdidev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Belal AL-Wsabi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Belal AL-Wsabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 
