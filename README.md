@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Belal AL-Wsabi!
 
-🚀 **Desktop Applications Developer** 
+🚀 **Full Stack .Net Developer** 
 
 
-Passionate about building innovative Systems solutions using C#.NET.  I specialize in crafting user-friendly systems that drive efficiency and enhance user experiences.
+Passionate about building innovative Systems solutions using ASP.Net Core.  I specialize in crafting user-friendly systems that drive efficiency and enhance user experiences.
 
 📫 **Contact Me:**
-[GitHub](https://github.com/alwsabicode1) | [Portfolio](https://alwsabicode1.github.io/portfolio/) | 📩 fffvvvv2234@gmail.com
+[GitHub](https://github.com/alwsabicode1) | [Portfolio](https://alwsabicode1.github.io/portfolio/) | 📩 belalalwsabi708@gmail.com
 
 ---
 
 ## 🔧 Tech Stack & Skills
 
-- **Desktop Development:** C#, C#.NET Framework, Sql Server, API Integration,Class Library 
+- ** Development:** C#,.NET Framework, ASP.Net Core ,Web API,Angular,HTML5, CSS3, JavaScrip
 - **Database Management:** MySql , Sql Server 
 - **Version Control:** Git & GitHub
 - **Soft Skills:** Problem-Solving, Critical Thinking, Communication, Continuous Learning
